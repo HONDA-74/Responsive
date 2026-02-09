@@ -1,2 +1,2 @@
 # Responsive
-ITI COURSES
+responsive and bootstrap course
